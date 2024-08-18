@@ -1,0 +1,18 @@
+
+body {
+    background-color: black;
+    color: #f6f6f6;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: inherit;
+}
+
+strong {
+    color: #22D4fD;
+}
